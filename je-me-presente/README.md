@@ -1,24 +1,40 @@
-# README
+# EXERCICE SEMAINE 3 - JOUR 3
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+-------------
 
-Things you may want to cover:
+### Introduction : Présentation de l'équipe (@pseudo_slack)
+- Manu @tinoun 
 
-* Ruby version
+Tout seul sur ce projet pour cause géographique 
 
-* System dependencies
+-------------
 
-* Configuration
+### Utilisation du bundle
 
-* Database creation
+Tout d'abord, clone ce projet dans ton dossier.
+Ouvre ton Terminal, et place toi dans le dossier cloné.
 
-* Database initialization
+Tape : `bundle install` dans ton Terminal.
+Cela te permettra d'installer les gems necessaires à l'execution du programme.
 
-* How to run the test suite
+Si tu as un message d'erreur, essaie `rvm install 2.5.1`.
+ou encore `gem update`
 
-* Services (job queues, cache servers, search engines, etc.)
+Si tu as (encore) un message d'erreur, *n'hésites pas à nous contacter!*
 
-* Deployment instructions
+------------
 
-* ...
+### Projet 
+
+Projet terminé jusqu'au petit 5.2 avec tout de fonctionnel. 
+
+Si tu as des erreurs contacte moi car tout marche. 
+
+--> teste de refaire le bundle install ou utilises bien la version 2.5.1 de ruby ! 
+
+
+
+## Merci pour la correction ! 
+
+
+![alt tag](https://user-images.githubusercontent.com/37908682/38898586-acc9ed70-4295-11e8-9433-fa83027043be.png)
